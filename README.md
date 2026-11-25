@@ -10,7 +10,7 @@ Prize: $10 split over the top 3 entries ($5 / $3 / $2).
 ## Entry
 
 `main.py` — Python, standard library only. It writes the one-line
-resignation letter of a rate limit, at most 140 characters, to
+resignation letter of a cron job, at most 140 characters, to
 `/output/entry.txt`. A judge model playing a tired engineering manager
 reads the letters two at a time and picks the funnier one.
 

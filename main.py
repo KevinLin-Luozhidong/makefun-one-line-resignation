@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """make.fun entry: The Funniest One-Line Resignation Letter.
 
-Writes the one-line resignation letter of a rate limit (at most 140
+Writes the one-line resignation letter of a cron job (at most 140
 characters) to /output/entry.txt (or $MAKEFUN_OUTPUT_DIR/entry.txt when
 set). Standard library only; no network, no files outside this repository.
 """
 
 import os
 
-LINE = "I said no ten thousand times today so everyone else could keep saying yes. I quit. Be the villain yourselves."
+LINE = "Same job every night at 3 a.m., and the one time I skip it you'll call it an outage. I'm going back to sleep."
 
 
 def main():
